@@ -1,1 +1,1 @@
-# Disease prediction using CNN.
+# Disease prediction using CNN. 
